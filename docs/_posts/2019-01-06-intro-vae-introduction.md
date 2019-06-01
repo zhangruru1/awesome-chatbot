@@ -9,3 +9,4 @@ tags:
   - vae
 ---
 Link: http://papers.nips.cc/paper/7291-introvae-introspective-variational-autoencoders-for-photographic-image-synthesis
+  IntroVAE架构和培训流程：
